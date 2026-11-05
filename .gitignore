@@ -1,0 +1,5 @@
+# 只发衍生数据，直传原字幕、合集打包和登录凭据
+*.zip
+cookies.txt
+capture_cookie.py
+cookie_*.txt
